@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mdfile/toefl/toefl 模式敲定.md",
+                "file": "mdfile/toefl/单词/背诵状况.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "toefl 模式敲定"
+              "title": "背诵状况"
             }
           }
         ]
@@ -171,35 +171,41 @@
   },
   "active": "70b573419e4779ec",
   "lastOpenFiles": [
-    "mdfile/toefl/toefl 做题记录.md",
-    "toefl.md",
-    "README.md",
-    "mdfile/toefl/toefl 模式敲定.md",
-    "mdfile/toefl/阅读/精读文章.md",
     "mdfile/toefl/单词/wordlist.md",
+    "mdfile/toefl/听力/精听单词及例句.assets/image-20241212025534240.png",
+    "mdfile/toefl/听力/精听单词及例句.md",
+    "mdfile/toefl/听力/听力感悟.md",
     "mdfile/toefl/口语/独立口语.md",
     "mdfile/toefl/口语/综合口语.md",
-    "mdfile/toefl/口语/素材积累.md",
-    "mdfile/toefl/单词/origin.txt",
-    "mdfile/toefl/单词/背诵状况.md",
-    "mdfile/toefl/听力/精听单词及例句.md",
+    "mdfile/toefl/资料/写作素材.md",
+    "mdfile/toefl/作文/作文练习.md",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112211848990.png",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112214059813.png",
+    "mdfile/toefl/资料/元素周期表中文版20190123最新(1).pdf",
+    "mdfile/toefl/资料/新托福iBT黄金口语80题(答案版)【默小默】.pdf",
+    "mdfile/toefl/阅读/精读文章.md",
+    "mdfile/系统架构师软考/软考模式敲定.assets/image-20241125014230626.png",
+    "mdfile/系统架构师软考/软考模式敲定.assets/image-20241125021032321.png",
+    "mdfile/系统架构师软考/软考模式敲定.md",
+    "mdfile/toefl/听力/听力感悟.assets/image-20241211023938975.png",
     "mdfile/toefl/听力/精听题目.md",
-    "mdfile/toefl/听力/听力感悟.md",
+    "mdfile/toefl/toefl 做题记录.md",
+    "mdfile/toefl/toefl 模式敲定.md",
+    "mdfile/recent.md",
+    "mdfile/toefl/单词/背诵状况.md",
+    "mdfile/toefl/口语/素材积累.md",
+    "toefl.md",
+    "README.md",
+    "mdfile/toefl/单词/origin.txt",
     "mdfile/toefl/听力/听力感悟.assets/image-20241224150523571.png",
     "mdfile/toefl/听力/听力感悟.assets/image-20241224150352894.png",
     "mdfile/plan.md",
-    "mdfile/recent.md",
     "mdfile/toefl/单词/wordlist.txt",
     "mdfile/toefl/单词/output.txt",
     "mdfile/toefl/单词 1/背诵状况.md",
     "mdfile/toefl/单词 1",
-    "mdfile/toefl/作文/作文练习.md",
     "未命名.canvas",
     "2025-03-03.md",
-    "mdfile/toefl/资料/元素周期表中文版20190123最新(1).pdf",
-    "mdfile/toefl/资料/新托福iBT黄金口语80题(答案版)【默小默】.pdf",
-    "mdfile/toefl/资料/写作素材.md",
-    "mdfile/系统架构师软考/软考模式敲定.md",
     "Untitled.canvas"
   ]
 }
