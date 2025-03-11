@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "mdfile/toefl/阅读/精读文章.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "精读文章"
             }
           }
         ]
@@ -100,11 +100,11 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 精读文章"
+              "title": "精读文章 的反向链接列表"
             }
           },
           {
@@ -148,7 +148,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 精读文章"
+              "title": "精读文章 的大纲"
             }
           }
         ],
@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,37 +170,42 @@
   },
   "active": "70b573419e4779ec",
   "lastOpenFiles": [
-    "mdfile/toefl/阅读/精读文章.md",
-    "mdfile/toefl/资料/写作素材.md",
-    "mdfile/toefl/作文/作文练习.md",
-    "mdfile/toefl/toefl 做题记录.md",
-    "mdfile/toefl/toefl 模式敲定.md",
     "mdfile/toefl/单词/背诵状况.md",
     "mdfile/toefl/单词/wordlist.md",
-    "mdfile/toefl/口语/独立口语.md",
-    "mdfile/toefl/口语/素材积累.md",
     "mdfile/toefl/口语/综合口语.md",
-    "mdfile/toefl/听力/听力感悟.assets/image-20241212022852874.png",
-    "mdfile/toefl/听力/听力感悟.assets/image-20241224150352894.png",
-    "mdfile/toefl/听力/精听单词及例句.md",
-    "mdfile/toefl/听力/精听题目.md",
-    "mdfile/toefl/听力/精听单词及例句.assets/image-20241212025534240.png",
-    "mdfile/toefl/听力/听力感悟.md",
-    "mdfile/toefl/toefl 模式敲定.assets/image-20241112221500282.png",
-    "mdfile/toefl/toefl 模式敲定.assets/image-20241112211848990.png",
-    "mdfile/toefl/toefl 模式敲定.assets/image-20241112214059813.png",
-    "mdfile/toefl/资料/元素周期表中文版20190123最新(1).pdf",
-    "mdfile/toefl/资料/新托福iBT黄金口语80题(答案版)【默小默】.pdf",
-    "mdfile/系统架构师软考/软考模式敲定.assets/image-20241125014230626.png",
-    "mdfile/系统架构师软考/软考模式敲定.assets/image-20241125021032321.png",
-    "mdfile/系统架构师软考/软考模式敲定.md",
-    "mdfile/toefl/听力/听力感悟.assets/image-20241211023938975.png",
-    "mdfile/recent.md",
-    "toefl.md",
-    "README.md",
-    "mdfile/toefl/单词/origin.txt",
-    "mdfile/toefl/听力/听力感悟.assets/image-20241224150523571.png",
+    "mdfile/toefl/口语/素材积累.md",
     "mdfile/plan.md",
+    "mdfile/toefl/toefl 做题记录.md",
+    "mdfile/toefl/toefl 模式敲定.md",
+    "mdfile/toefl/阅读/精读文章.md",
+    "mdfile/toefl/口语/独立口语.md",
+    "mdfile/toefl/口语/素材积累之分论点讨论.md",
+    "mdfile/toefl/听力/听力感悟.md",
+    "mdfile/toefl/听力/精听题目.md",
+    "mdfile/toefl/听力/精听单词及例句.md",
+    "mdfile/toefl/听力/听力感悟.assets/image-20241211023938975.png",
+    "mdfile/toefl/听力/听力感悟.assets/image-20241224150352894.png",
+    "mdfile/日本語勉強/稿子练习.md",
+    "mdfile/日本語勉強/敬語.md",
+    "mdfile/toefl/听力/精听单词及例句.assets/image-20241212025534240.png",
+    "mdfile/toefl/资料/新托福iBT黄金口语80题(答案版)【默小默】.pdf",
+    "mdfile/toefl/资料/元素周期表中文版20190123最新(1).pdf",
+    "mdfile/toefl/资料/写作素材.md",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112211848990.png",
+    "mdfile/recent.md",
+    "README.md",
+    "toefl.md",
+    "mdfile/日本語勉強",
+    "mdfile/日本語勉強.md",
+    "mdfile/toefl/听力/听力感悟.assets/image-20241212022852874.png",
+    "mdfile/toefl/听力/听力感悟.assets/image-20241224150523571.png",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112214034760.png",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112212031896.png",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112222247587.png",
+    "mdfile/toefl/作文/作文练习.md",
+    "mdfile/toefl/toefl 模式敲定.assets/image-20241112214059813.png",
+    "mdfile/系统架构师软考/软考模式敲定.md",
+    "mdfile/toefl/单词/origin.txt",
     "mdfile/toefl/单词/wordlist.txt",
     "mdfile/toefl/单词/output.txt",
     "mdfile/toefl/单词 1/背诵状况.md",
