@@ -1,5 +1,8 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./${filename}.asserts"
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
