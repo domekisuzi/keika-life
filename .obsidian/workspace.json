@@ -11,14 +11,12 @@
             "id": "b83f091102d2c1de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "mdfile/工作/过度用语.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250323212545.png"
               },
-              "icon": "lucide-file",
-              "title": "过度用语"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250323212545"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mdfile/工作/修曼面试问题合计.md",
+                "file": "mdfile/工作/自我介绍稿子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "修曼面试问题合计 的反向链接列表"
+              "title": "自我介绍稿子 的反向链接列表"
             }
           },
           {
@@ -155,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 287.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,30 +166,46 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b83f091102d2c1de",
+  "active": "5446db73dd58831d",
   "lastOpenFiles": [
-    "mdfile/工作/可能的问题项目方面.md",
-    "mdfile/工作/面试经验总结.md",
-    "mdfile/系统架构师软考/软考模式敲定.md",
+    "Pasted image 20250328094644.png",
+    "Pasted image 20250323212545.png",
+    "Pasted image 20250527172804.png",
+    "README.md",
+    "mdfile/人际关系&人生/人生/小启发.md",
     "mdfile/人际关系&人生/人际关系/小tips-以后待修改.md",
-    "mdfile/日本語勉強/句式练习.md",
-    "mdfile/日本語勉強/常用句式.md",
-    "mdfile/日本語勉強/文法.md",
-    "mdfile/日本語勉強/敬語.md",
-    "mdfile/日本語勉強/稿子练习.md",
+    "mdfile/人际关系&人生/人生",
+    "mdfile/MechineLearning/Target AND PLAN.md",
+    "mdfile/金融",
+    "mdfile/工作/项目背景杜撰-测试知识总结.md",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611175401551.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611175229141.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611174856014.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611174008187.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611173225584.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611172547677.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611172441213.png",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts/file-20250611172331427.png",
+    "mdfile/工作/面试问题-普遍版本.md",
+    "mdfile/工作/自我介绍稿子.md",
+    "mdfile/工作/修曼面试问题合计.md",
+    "mdfile/工作/项目背景详情杜撰.md",
     "mdfile/工作/过度用语.md",
     "mdfile/工作/可能的问题其他方面.md",
-    "mdfile/工作/项目背景详情杜撰.md",
-    "mdfile/工作/修曼面试问题合计.md",
-    "mdfile/工作/自我介绍稿子.md",
-    "mdfile/日本語勉強/文法.asserts/file-20250503132836392.png",
-    "mdfile/日本語勉強/文法.asserts/file-20250503133215458.png",
-    "mdfile/日本語勉強/文法.asserts/file-20250503133312641.png",
-    "mdfile/MechineLearning/Target AND PLAN.md",
-    "Pasted image 20250527172804.png",
-    "mdfile/日本語勉強/文法.asserts/file-20250503133259344.png",
-    "mdfile/工作/自我介绍稿子，自我修改版本.md",
-    "Pasted image 20250323212545.png",
-    "Pasted image 20250328094644.png"
+    "mdfile/工作/可能的问题项目方面.md",
+    "mdfile/工作/面试经验总结.md",
+    "mdfile/工作/项目背景杜撰-测试知识总结.asserts",
+    "mdfile/系统架构师软考/软考模式敲定.md",
+    "mdfile/日本語勉強/不足点.md",
+    "mdfile/日本語勉強/每日一练.md",
+    "mdfile/日本語勉強/主题积累.md",
+    "mdfile/日本語勉強/错误点.md",
+    "mdfile/toefl/口语/独立口语.md",
+    "mdfile/toefl/口语/素材积累之分论点讨论.md",
+    "mdfile/toefl/口语/综合口语.md",
+    "mdfile/日本語勉強/敬語.md",
+    "mdfile/日本語勉強/句式练习.md",
+    "mdfile/日本語勉強/练习文章.md",
+    "mdfile/日本語勉強/文法.md"
   ]
 }
