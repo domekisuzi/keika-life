@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mdfile/人际关系&人生/人生/小启发.md",
+                "file": "mdfile/修考/线性代数/线性代数导论知识点.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "小启发"
+              "title": "线性代数导论知识点"
             }
           }
         ]
@@ -170,11 +170,14 @@
   },
   "active": "e9644840357b4f07",
   "lastOpenFiles": [
+    "mdfile/人际关系&人生/人生/BookList.md",
+    "mdfile/修考/线性代数/线性代数导论知识点.md",
+    "mdfile/修考/线性代数",
+    "mdfile/修考",
+    "mdfile/人际关系&人生/人生/小问题.md",
+    "mdfile/人际关系&人生/人生/小启发.md",
     "mdfile/人际关系&人生/人生/小目标/想看的书.md",
     "mdfile/金融/学习的知识.md",
-    "mdfile/人际关系&人生/人生/小启发.md",
-    "mdfile/人际关系&人生/人生/BookList.md",
-    "mdfile/人际关系&人生/人生/小问题.md",
     "mdfile/人际关系&人生/人生/人生投资事项.md",
     "mdfile/人际关系&人生/人际关系/小tips-以后待修改.md",
     "mdfile/工作/自我介绍稿子.md",
@@ -210,12 +213,9 @@
     "mdfile/人际关系&人生/人生/未命名.md",
     "mdfile/toefl/作文/对比用temp.md",
     "mdfile/toefl/作文/作文感悟.md",
-    "mdfile/toefl/作文/作文练习.md",
     "mdfile/toefl/资料/新托福iBT黄金口语80题(答案版)【默小默】.pdf",
     "mdfile/人际关系&人生/人生/BookList.asserts",
     "mdfile/人际关系&人生/人生/小启发.asserts",
-    "未命名",
-    "未命名.canvas",
-    "mdfile/人际关系&人生/人生"
+    "未命名.canvas"
   ]
 }
